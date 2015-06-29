@@ -10,7 +10,7 @@ class CaveSystem
     shuffleCaveMatrix
     initializeCaves
     initializeCaveVertices
-    initializeCaveFeatures(5, 1)
+    initializeCaveFeatures(1, 1)
   end
 
   # Create the array of caves
